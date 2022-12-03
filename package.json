@@ -7,7 +7,9 @@
   "author": "Richard Crosby",
   "license": "MIT",
   "scripts": {
-    "day-1": "ts-node --esm --experimental-specifier-resolution node ./src/day-1/index.ts"
+    "day-1": "ts-node --esm --experimental-specifier-resolution node ./src/day-1/index.ts",
+    "day-2": "ts-node --esm --experimental-specifier-resolution node ./src/day-2/index.ts",
+    "day-3": "ts-node --esm --experimental-specifier-resolution node ./src/day-3/index.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
